@@ -7,17 +7,17 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 ## Table of Contents
 
 1. [Frontend Workshop](#frontend-workshop)
-   - [Buổi 1: React Best Practices](#buổi-1-react-best-practices)
-   - [Buổi 2: TailwindCSS & Component-Driven UI Design](#buổi-2-tailwindcss--component-driven-ui-design)
-   - [Buổi 3: Testing & Quality Assurance in React](#buổi-3-testing--quality-assurance-in-react)
+   - [Buổi 1 React Best Practices](#buổi-1-react-best-practices)
+   - [Buổi 2 TailwindCSS & Component-Driven UI Design](#buổi-2-tailwindcss--component-driven-ui-design)
+   - [Buổi 3 Testing & Quality Assurance in React](#buổi-3-testing--quality-assurance-in-react)
 2. [Backend Workshop](#backend-workshop)
-   - [Buổi 1A: Redis & Kafka](#buổi-1a-redis--kafka)
-   - [Buổi 1B: Database Optimization](#buổi-1b-database-optimization)
-   - [Buổi 2A: API Security & Advanced Patterns](#buổi-2a-api-security--advanced-patterns)
-   - [Buổi 2B: API Documentation & Automation](#buổi-2b-api-documentation--automation)
+   - [Buổi 1A Redis & Kafka](#buổi-1a-redis--kafka)
+   - [Buổi 1B Database Optimization](#buổi-1b-database-optimization)
+   - [Buổi 2A API Security & Advanced Patterns](#buổi-2a-api-security--advanced-patterns)
+   - [Buổi 2B API Documentation & Automation](#buổi-2b-api-documentation--automation)
 3. [DevOps Workshop](#devops-workshop)
-   - [Buổi 3: Distributed Systems & Scalability](#buổi-3-distributed-systems--scalability)
-   - [Buổi 4: Infrastructure as Code (IaC)](#buổi-4-infrastructure-as-code-iac)
+   - [Buổi 3 Distributed Systems & Scalability](#buổi-3-distributed-systems--scalability)
+   - [Buổi 4 Infrastructure as Code (IaC)](#buổi-4-infrastructure-as-code-iac)
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 2. **TailwindCSS & Component-Driven UI Design**
 3. **Testing & Quality Assurance in React**
 
-### 🟢 Buổi 1: React Best Practices
+### 🟢 Buổi 1 React Best Practices
 
 #### 🎯 Mục tiêu:
 - Củng cố kiến thức về React.
@@ -49,7 +49,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 🟡 Buổi 2: TailwindCSS & Component-Driven UI Design
+### 🟡 Buổi 2 TailwindCSS & Component-Driven UI Design
 
 #### 🎯 Mục tiêu:
 - Làm quen với **TailwindCSS** để xây dựng UI nhanh và linh hoạt.
@@ -67,7 +67,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 🔵 Buổi 3: Testing & Quality Assurance in React
+### 🔵 Buổi 3 Testing & Quality Assurance in React
 
 #### 🎯 Mục tiêu:
 - Học cách kiểm thử ứng dụng React: Unit Test, Integration Test, và E2E Test.
@@ -86,7 +86,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ## Backend Workshop
 
-### 🟢 Buổi 1A: Redis & Kafka
+### 🟢 Buổi 1A Redis & Kafka
 
 #### 🎯 Mục tiêu:
 - Làm chủ Redis và Kafka trong việc quản lý dữ liệu tạm thời và truyền tải dữ liệu thời gian thực.
@@ -101,7 +101,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 🟡 Buổi 1B: Database Optimization
+### 🟡 Buổi 1B Database Optimization
 
 #### 🎯 Mục tiêu:
 - Tối ưu hóa cơ sở dữ liệu.
@@ -117,7 +117,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 🛡️ Buổi 2A: API Security & Advanced Patterns
+### 🛡️ Buổi 2A API Security & Advanced Patterns
 
 #### 🎯 Mục tiêu:
 - Bảo mật API: **OWASP**, **JWT**, **Rate Limiting**, **CQRS Pattern**.
@@ -133,7 +133,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 📚 Buổi 2B: API Documentation & Automation
+### 📚 Buổi 2B API Documentation & Automation
 
 #### 🎯 Mục tiêu:
 - Tạo tài liệu API chi tiết.
@@ -152,7 +152,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ## DevOps Workshop
 
-### ☁️ Buổi 3: Distributed Systems & Scalability
+### ☁️ Buổi 3 Distributed Systems & Scalability
 
 #### 🎯 Mục tiêu:
 - Hiểu kiến trúc **Microservices**, **Service Discovery**, **Load Balancing**, **Circuit Breaker**.
@@ -170,7 +170,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 🛠️ Buổi 4: Infrastructure as Code (IaC)
+### 🛠️ Buổi 4 Infrastructure as Code (IaC)
 
 #### 🎯 Mục tiêu:
 - Hiểu **IaC**, sử dụng **Terraform**, **Ansible**, và tích hợp CI/CD với Jenkins.
