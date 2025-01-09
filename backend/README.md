@@ -148,7 +148,6 @@ Welcome to the **Backend Workshop**, an in-depth training program focused on mod
   - PostgreSQL
   - Swagger
   - Postman
-  - ELK Stack
 
 ---
 
