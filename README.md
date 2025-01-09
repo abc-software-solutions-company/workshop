@@ -20,6 +20,7 @@ Each folder contains a dedicated `README.md` file with all the details and conte
 - Ensure you follow any **setup instructions** provided within each workshop folder.
 
 ### Folder Structure
+```sh
 root/
 ├── frontend/
 │   └── README.md
@@ -30,5 +31,6 @@ root/
 ├── soft-skills/
 │   └── README.md
 ---
+```
 
 🎉 **Happy Learning!**
