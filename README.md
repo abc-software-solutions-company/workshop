@@ -16,8 +16,8 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
    - [Buổi 2A: API Security & Advanced Patterns](#buổi-2a-api-security--advanced-patterns)
    - [Buổi 2B: API Documentation & Automation](#buổi-2b-api-documentation--automation)
 3. [DevOps Workshop](#devops-workshop)
-   - [Buổi 1: Distributed Systems & Scalability](#buổi-1-distributed-systems--scalability)
-   - [Buổi 2: Infrastructure as Code (IaC)](#buổi-2-infrastructure-as-code-iac)
+   - [Buổi 3: Distributed Systems & Scalability](#buổi-3-distributed-systems--scalability)
+   - [Buổi 4: Infrastructure as Code (IaC)](#buổi-4-infrastructure-as-code-iac)
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ## DevOps Workshop
 
-### ☁️ Buổi 1: Distributed Systems & Scalability
+### ☁️ Buổi 3: Distributed Systems & Scalability
 
 #### 🎯 Mục tiêu:
 - Hiểu kiến trúc **Microservices**, **Service Discovery**, **Load Balancing**, **Circuit Breaker**.
@@ -170,7 +170,7 @@ Welcome to the **Comprehensive Training Workshop**! This program is designed to 
 
 ---
 
-### 🛠️ Buổi 2: Infrastructure as Code (IaC)
+### 🛠️ Buổi 4: Infrastructure as Code (IaC)
 
 #### 🎯 Mục tiêu:
 - Hiểu **IaC**, sử dụng **Terraform**, **Ansible**, và tích hợp CI/CD với Jenkins.
